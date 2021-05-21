@@ -6,10 +6,11 @@
 composer require --dev squizlabs/php_codesniffer
 ```
 
-# test folder
+## test folder
 ```bash 
 
-# phpcs --standard=PSR2 <folder patch>
+
+# syntax: phpcs --standard=PSR2 <folder patch>
 # example:
 
 echo "Testing PSR-2"
